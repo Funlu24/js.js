@@ -3,6 +3,7 @@
     "datenv": "^0.0.0",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "mongodb": "^6.12.0",
     "mongoose": "^8.9.5",
     "nodemon": "^3.1.9"
   },
@@ -24,10 +25,11 @@
     "url": "https://github.com/Funlu24/js.js/issues"
   },
   "homepage": "https://github.com/Funlu24/js.js#readme",
-  "description": "",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.20.0",
     "@typescript-eslint/parser": "^8.20.0",
-    "eslint": "^9.18.0"
-  }
+    "eslint": "^9.18.0",
+    "prettier": "3.4.2"
+  },
+  "description": ""
 }
